@@ -1,0 +1,11 @@
+c:\users\hoang\documents\visual studio 2013\Projects\Aftership\Aftership\bin\Debug\Aftership.exe.config
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\Aftership\Aftership\obj\Debug\Aftership.csprojResolveAssemblyReference.cache
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\Aftership\Aftership\obj\Debug\Aftership.Form1.resources
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\Aftership\Aftership\obj\Debug\Aftership.Properties.Resources.resources
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\Aftership\Aftership\obj\Debug\Aftership.csproj.GenerateResource.Cache
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\Aftership\Aftership\bin\Debug\Aftership.exe
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\Aftership\Aftership\bin\Debug\Aftership.pdb
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\Aftership\Aftership\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\Aftership\Aftership\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\Aftership\Aftership\obj\Debug\Aftership.exe
+C:\Users\hoang\Documents\Visual Studio 2013\Projects\Aftership\Aftership\obj\Debug\Aftership.pdb
